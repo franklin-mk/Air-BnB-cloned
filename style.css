@@ -5,6 +5,7 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 nav {
@@ -62,6 +63,8 @@ section {
     display: flex; 
     flex-direction: column;
     position: relative;
+    align-items: center;
+    justify-content: center;
 }
 
 .card--image {
